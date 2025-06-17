@@ -1,0 +1,18 @@
+"InstallScript"
+{
+	"Registry"
+	{
+		"HKEY_LOCAL_MACHINE\\SOFTWARE\\Kagura Games\\Bound By Love"
+		{
+			"string"
+			{
+				"Install_Path"		"%INSTALLDIR%"
+				"Exe_Path"		"%INSTALLDIR%\\Game.exe"
+			}
+		}
+	}
+}
+"kvsignatures"
+{
+	"InstallScript"		"73832a2fff1533d9c909d1898c080ff6a21886f306e396c32ddc71d762fcdd3f22371a04bae4a4ea745219081155d4ae2c9a6f40bf018d0c711b03839510777eaaa20ff1b5f627d12039c69f9f699a2c260b007c1dbc45d020684b5064622c19516709ec75b6308bbec87c8358fbd81ff132fbf02447c88be0091e4d62969b6f"
+}
