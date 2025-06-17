@@ -1,0 +1,17 @@
+# System files
+*.log
+*.tmp
+*.bak
+*.url
+debug.log
+
+# Game binary files
+*.exe
+*.dll
+*.dat
+*.pak
+*.bin
+
+# Directories
+docs/_Redist/
+game/swiftshader/
